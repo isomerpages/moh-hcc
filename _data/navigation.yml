@@ -13,5 +13,12 @@ links:
     collection: left-nav-one
   - title: Left Nav Two
     collection: left-nav-two
+  - title: jackson folder
+    collection: jackson
+  - title: shawn folder
+    collection: shawn
+  - title: brandon folder
+    collection: brandon
   - title: Resource Room
     resource_room: true
+    
