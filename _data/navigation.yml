@@ -9,12 +9,6 @@ logo: /images/isomer-logo.svg
 links:
   - title: Faq
     url: /faq/
-  - title: jackson folder
-    collection: jackson
-  - title: shawn folder
-    collection: shawn
-  - title: brandon folder
-    collection: brandon
   - title: Resource Room
     resource_room: true
     
