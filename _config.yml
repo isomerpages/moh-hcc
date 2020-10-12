@@ -7,6 +7,13 @@ collections:
     output: true
   left-nav-two:
     output: true
+  jackson:
+    output: true
+  brandon:
+    output: true
+  shawn:
+    output: true
+    
 resources_name: resource-room
 
 ##################################################################################################################
