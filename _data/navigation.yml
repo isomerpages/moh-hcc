@@ -9,10 +9,6 @@ logo: /images/isomer-logo.svg
 links:
   - title: Faq
     url: /faq/
-  - title: Left Nav One
-    collection: left-nav-one
-  - title: Left Nav Two
-    collection: left-nav-two
   - title: jackson folder
     collection: jackson
   - title: shawn folder
