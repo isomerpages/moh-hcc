@@ -1,10 +1,10 @@
 ---
 layout: homepage
-title: Isomer Site
-description: Brief site description here
+title: SG Healthcare Corps
+description: Welcome to the SG Healthcare Corps
 image: /images/isomer-logo.svg
 permalink: /
-notification: Thank you for your interest in the Corps. *We are currently experiencing a high number of enquiries.*
+notification: Thank you for your interest in the Corps. 
 sections:
     - hero:
         title: Join the SG Healthcare Corps
@@ -23,9 +23,10 @@ sections:
               description: Page A is important too
               url: /privacy/
     - infobar:
-        title: Infobar title
-        subtitle: Subtitle
-        description: About a sentence worth of description here
+        title: Join the Corps
+        subtitle: Thank you for your interest in volunteering with us
+        description: Welcome to the SG Healthcare Corps! At SG Healthcare Corps, we believe that every individual, regardless of experience, can be empowered to provide care alongside healthcare professionals. To indicate join the SG Healthcare Corps, please click on the link below to access the sign-up form. We encourage you to read the FAQs for answers to questions you may have.  
+
         button: Button text
         url: /faq/
     - resources:
