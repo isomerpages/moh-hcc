@@ -2,14 +2,14 @@
 layout: homepage
 title: SG Healthcare Corps
 description: Welcome to the SG Healthcare Corps
-image: /images/isomer-logo.svg
+image: /images/shc-small-logo.jpg
 permalink: /
 notification: Thank you for your interest in the Corps. 
 sections:
     - hero:
         title: Join the SG Healthcare Corps
         subtitle: #Standby4SG
-        background: /images/hero-banner.png
+        background: /images/hero-trainer.png
         button: Contact Us
         url: /contact-us/
         key_highlights:
