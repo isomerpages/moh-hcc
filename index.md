@@ -4,22 +4,22 @@ title: Isomer Site
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
-notification: Here's a notification bar you can use!
+notification: Thank you for your interest in the Corps. *We are currently experiencing a high number of enquiries.*
 sections:
     - hero:
-        title: Hero title
-        subtitle: Hero subtitle
+        title: Join the SG Healthcare Corps
+        subtitle: #Standby4SG
         background: /images/hero-banner.png
         button: Contact Us
         url: /contact-us/
         key_highlights:
-            - title: Highlight A
-              description: Important highlight A is important
+            - title: Who we are
+              description: Milestones of the Corps
               url: https://google.com
-            - title: Highlight B
-              description: Important highlight B is equally important
+            - title: Join as a Volunteer
+              description: All Singapore Residents are welcome to join the Corps. 
               url: https://gmail.com
-            - title: Page A
+            - title: FAQ
               description: Page A is important too
               url: /privacy/
     - infobar:
