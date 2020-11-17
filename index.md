@@ -2,7 +2,7 @@
 layout: homepage
 title: SG Healthcare Corps
 description: Welcome to the SG Healthcare Corps
-image: /images/shc-small-logo.jpg
+image: images/shc-small-logo.jpg
 permalink: /
 notification: Thank you for your interest in the Corps. 
 sections:
