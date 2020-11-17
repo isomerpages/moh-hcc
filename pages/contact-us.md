@@ -2,7 +2,7 @@
 layout: contact_us
 title: Contact Us
 permalink: /contact-us/
-agency_name: Agency Name
+agency_name: SG Healthcare Corps
 locations:
   - title: Main Office
     address:
@@ -23,10 +23,9 @@ locations:
 contacts:
   - title: General Enquiries & Feedback
     content:
-    - phone: +65 6123 4567
-    - email: enquiries@abc.gov.sg
+    - email: shc@moh.gov.sg
     - other: Any text here <i>including HTML</i>
-  - title: Careers
+  - title: Telegram Channel
     content:
-    - email: careers@abc.gov.sg
+    - link: https://go.gov.sg/shc-telegram
 ---
