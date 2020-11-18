@@ -31,6 +31,6 @@ sections:
         url: /faq/
     - resources:
         title: Media
-        subtitle: Learn more
+        subtitle: Featured works of the Corps
         button: View More
 ---
