@@ -6,9 +6,7 @@ links:
     collection: join-us
   - title: Join Us
     collection: join-us
-  - title: FAQ
-    collection: join-us
   - title: Contact Us
     url: /permalink
-  - title: Faq
+  - title: FAQ
     collection: faq
