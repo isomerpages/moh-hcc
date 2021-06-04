@@ -2,13 +2,3 @@ logo: /images/isomer-logo.svg
 links:
   - title: About Us
     url: /permalink
-  - title: Resources
-    collection: join-us
-  - title: Join Us
-    collection: join-us
-  - title: Contact Us
-    url: /permalink
-  - title: FAQ
-    collection: faq
-  - title: Resources
-    collection: resources
