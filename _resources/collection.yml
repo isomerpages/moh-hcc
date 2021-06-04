@@ -3,3 +3,4 @@ collections:
     output: true
     order:
       - press-release.md
+      - meet-our-volunteers.md
