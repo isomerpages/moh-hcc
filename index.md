@@ -9,7 +9,7 @@ sections:
   - hero:
       title: SG Healthcare Corps
       subtitle: A Nation of Active Healthcare Volunteers
-      background: /images/hero-banner.png
+      background: /images/SG%20Healthcare%20Corps_EK20215_web%20res.jpg
       button: join us now
       url: /contact-us/
       key_highlights:
