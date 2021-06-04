@@ -10,3 +10,5 @@ links:
     collection: join-us
   - title: Contact Us
     url: /permalink
+  - title: Faq
+    collection: faq
