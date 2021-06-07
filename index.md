@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: Isomer Site
+title: SG Healthcare Corps
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
