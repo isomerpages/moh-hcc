@@ -3,5 +3,4 @@ collections:
     output: true
     order:
       - individuals/.keep
-      - for-individuals.md
       - for-organizations.md
