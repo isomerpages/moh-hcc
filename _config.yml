@@ -52,3 +52,4 @@ plugins:
   - jekyll-remote-theme
 staging: https://moh-hcc2-staging.netlify.app
 prod: https://moh-hcc2-prod.netlify.app
+is_government: true
