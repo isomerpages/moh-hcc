@@ -2,7 +2,4 @@ collections:
   join-us:
     output: true
     order:
-      - individuals/.keep
-      - individuals/commcare-ambassadors.md
-      - individuals/medics.md
       - for-organizations.md
