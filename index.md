@@ -29,7 +29,7 @@ sections:
       button: Button text
       url: /faq/
   - resources:
-      title: Media
-      subtitle: Learn more
+      title: Volunteer Opportunities
+      subtitle: Join Us
       button: View More
 ---
