@@ -5,7 +5,7 @@ links:
   - title: Resources
     resource_room: true
   - title: Join Us
-    collection: join-us
+    url: /example-resource/volunteer-roles
   - title: FAQ
     collection: faq
   - title: Contact Us
