@@ -3,5 +3,5 @@ collections:
     output: true
     order:
       - individuals/.keep
-      - individuals/for-individuals.md
+      - individuals/commcare-ambassadors.md
       - for-organizations.md
