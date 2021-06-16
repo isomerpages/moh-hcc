@@ -4,3 +4,5 @@ links:
     collection: about-us
   - title: Resources
     resource_room: true
+  - title: Join Us
+    collection: join-us
