@@ -3,4 +3,4 @@ collections:
     output: true
     order:
       - for-individuals.md
-      - covid-19-commcare.md
+      - community-care-ambassadors-covid-19.md
