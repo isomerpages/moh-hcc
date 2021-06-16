@@ -4,9 +4,3 @@ links:
     collection: about-us
   - title: Resources
     resource_room: true
-  - title: Join Us
-    url: /resources/volunteer-opportunities/
-  - title: FAQ
-    collection: faq
-  - title: Contact Us
-    url: /contact-us
