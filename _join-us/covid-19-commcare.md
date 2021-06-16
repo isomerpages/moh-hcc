@@ -2,6 +2,9 @@
 title: (COVID-19) CommCare
 permalink: /join-us/covid19-commcare
 ---
+What’s next?
+Upon signing up, you are invited to join our outreach channels to receive the latest updates. If there is a good match, we will be in touch with you via email or phone call to confirm your registration with the Corps, and to link you up with the institution that can benefit from your help. Stay tuned, share this opportunity to #standby4SG, and keep well.
+Feel free to write to us at shc@moh.gov.sg if you have any enquiries.
 **Description**
 
 Community care is a pivotal part of our healthcare system and covers a range of care settings such as nursing homes, senior care centres, community hospitals, and hospices. Seniors cared for in the community will require more support especially amidst COVID-19, and you can play a part in their care. With training, individuals with or without healthcare experience can support care of our seniors by being a Community Care Ambassador.
@@ -21,3 +24,9 @@ Training is fully funded by the SG Healthcare Corps and will be conducted throug
 <iframe id="iframe" src="https://form.gov.sg/609b2c037edfbf0011a46ebe" style="width:100%;height:500px"></iframe>
 
 <div style="font-family:Sans-Serif;font-size:12px;color:#999;opacity:0.5;padding-top:5px">Powered by <a href="https://form.gov.sg" style="color: #999">FormSG</a></div>
+
+**What’s next?**
+
+Upon signing up, you are invited to join our outreach channels to receive the latest updates. If there is a good match, we will be in touch with you via email or phone call to confirm your registration with the Corps, and to link you up with the institution that can benefit from your help. Stay tuned, share this opportunity to #standby4SG, and keep well.
+
+Feel free to write to us at shc@moh.gov.sg if you have any enquiries.
