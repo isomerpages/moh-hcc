@@ -2,9 +2,6 @@
 title: (COVID-19) CommCare
 permalink: /join-us/covid19-commcare
 ---
-
-
-
 **Description**
 
 Community care is a pivotal part of our healthcare system and covers a range of care settings such as nursing homes, senior care centres, community hospitals, and hospices. Seniors cared for in the community will require more support especially amidst COVID-19, and you can play a part in their care. With training, individuals with or without healthcare experience can support care of our seniors by being a Community Care Ambassador.
