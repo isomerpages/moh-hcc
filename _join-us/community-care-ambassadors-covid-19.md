@@ -2,7 +2,6 @@
 title: Community Care Ambassadors (COVID-19)
 permalink: /join-us/commcare-covid19
 ---
-
 What’s next?
 Upon signing up, you are invited to join our outreach channels to receive the latest updates. If there is a good match, we will be in touch with you via email or phone call to confirm your registration with the Corps, and to link you up with the institution that can benefit from your help. Stay tuned, share this opportunity to #standby4SG, and keep well.
 Feel free to write to us at shc@moh.gov.sg if you have any enquiries.
@@ -28,6 +27,4 @@ Training is fully funded by the SG Healthcare Corps and will be conducted throug
 
 **What’s next?**
 
-Upon signing up, you are invited to join our outreach channels to receive the latest updates. If there is a good match, we will be in touch with you via email or phone call to confirm your registration with the Corps, and to link you up with the institution that can benefit from your help. Stay tuned, share this opportunity to #standby4SG, and keep well.
-
-Feel free to write to us at shc@moh.gov.sg if you have any enquiries.
+Thank you for your interest in joining the SG Healthcare Corps! If you have signed up, you will be invited to join our outreach channels to receive the latest updates. If there is a good match, we will be in touch with you via email or phone call to confirm your registration with the Corps, and to link you up with the institution that can benefit from your help. Stay tuned, share this opportunity to #standby4SG, and keep well.
