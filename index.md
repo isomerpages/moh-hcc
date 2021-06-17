@@ -11,7 +11,7 @@ sections:
       subtitle: A Nation of Active Healthcare Volunteers
       background: /images/SG%20Healthcare%20Corps_EK20215_web%20res.jpg
       button: join us now
-      url: /contact-us/
+      url: /join-us/for-individuals
       key_highlights:
         - title: Highlight A
           description: Important highlight A is important
