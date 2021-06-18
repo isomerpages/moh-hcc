@@ -22,14 +22,16 @@ sections:
         - title: Page A
           description: Page A is important too
           url: /privacy/
-  - infobar:
+  - infopic:
       title: "#Standby4SG"
-      subtitle: MOH COS 2021
+      subtitle: why join shc
       description: SHC is "a platform for citizen engagement and volunteerism in
         healthcare during peacetime, and a reserve pool in times of crisis" -
-        SMS Koh Poh Koon
-      button: Join Us
+        SMS Koh Poh Koon, 2021
+      button: join us
       url: /join-us/for-individuals
+      image: /images/SG%20Healthcare%20Corps_EK20421_web%20res.jpg
+      alt: Training for SHC Volunteers
   - resources:
       title: Press Releases
       subtitle: shc on the news
