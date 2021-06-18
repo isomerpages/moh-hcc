@@ -23,11 +23,13 @@ sections:
           description: Page A is important too
           url: /privacy/
   - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
-      url: /faq/
+      title: "#Standby4SG"
+      subtitle: MOH COS 2021
+      description: SHC is "a platform for citizen engagement and volunteerism in
+        healthcare during peacetime, and a reserve pool in times of crisis" -
+        SMS Koh Poh Koon
+      button: Join Us
+      url: /join-us
   - resources:
       title: Press Releases
       subtitle: shc on the news
