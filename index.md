@@ -29,7 +29,7 @@ sections:
         healthcare during peacetime, and a reserve pool in times of crisis" -
         SMS Koh Poh Koon
       button: Join Us
-      url: /join-us
+      url: /join-us/for-individuals
   - resources:
       title: Press Releases
       subtitle: shc on the news
