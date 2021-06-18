@@ -8,7 +8,7 @@ notification: "[COVID-19] We need Community Care Ambassadors! Join us now!"
 sections:
   - hero:
       title: SG Healthcare Corps
-      subtitle: A Nation of Active Healthcare Volunteers
+      subtitle: A Nation of Healthcare Volunteers
       background: /images/SG%20Healthcare%20Corps_EK20215_web%20res.jpg
       button: join us now
       url: /join-us/for-individuals
