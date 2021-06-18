@@ -17,7 +17,7 @@ sections:
       subtitle: why join shc
       description: SHC is "a platform for citizen engagement and volunteerism in
         healthcare during peacetime, and a reserve pool in times of crisis" -
-        SMS Koh Poh Koon, 2021
+        SMS Koh P.K., 2021
       button: join us
       url: /join-us/for-individuals
       image: /images/SG%20Healthcare%20Corps_EK20421_web%20res.jpg
