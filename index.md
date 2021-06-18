@@ -4,7 +4,7 @@ title: SG Healthcare Corps
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
-notification: "[COVID-19] We are in need of Community Care Ambassadors! Join us now!"
+notification: "[COVID-19] We need Community Care Ambassadors! Join us now!"
 sections:
   - hero:
       title: SG Healthcare Corps
