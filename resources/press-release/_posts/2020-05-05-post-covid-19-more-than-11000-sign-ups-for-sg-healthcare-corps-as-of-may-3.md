@@ -8,4 +8,4 @@ layout: post
 
 11,000 people have signed up to volunteer with the SG Healthcare Corps to support the public healthcare workforce. Health Minister Gan Kim Yong has told Parliament that the scope of the initiative has been expanded to include those without prior healthcare experience. They will receive training to take on supporting roles such as performing swabs or basic care.
 
-Link to video: https://www.youtube.com/watch?v=W9copPlOr5A 
+Link to video: [https://www.youtube.com/watch?v=W9copPlOr5A](https://www.youtube.com/watch?v=W9copPlOr5A)
