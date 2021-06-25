@@ -12,6 +12,6 @@ contacts:
   - content:
       - phone: ""
       - email: ""
-      - other: https://www.go.gov.sg\shc-change
+      - other: https://www.go.gov.sg/shc-change
     title: Change Request
 ---
