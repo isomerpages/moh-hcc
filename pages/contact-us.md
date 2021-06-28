@@ -12,7 +12,7 @@ contacts:
   - content:
       - phone: ""
       - email: ""
-      - other: <a href="https://www.go.gov.sg/shc-change" target="_blank">Click here to
-          access form</a>
+      - other: <a href="https://www.go.gov.sg/shc-change"
+          target="_blank">https://www.go.gov.sg/shc-change</a>
     title: Change Request
 ---
