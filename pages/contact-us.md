@@ -13,6 +13,6 @@ contacts:
       - phone: ""
       - email: ""
       - other: <a href="https://www.go.gov.sg/shc-change"
-          target="_blank">https://www.go.gov.sg/shc-change</a>
+          target="_blank">go.gov.sg/shc-change</a>
     title: Change Request
 ---
