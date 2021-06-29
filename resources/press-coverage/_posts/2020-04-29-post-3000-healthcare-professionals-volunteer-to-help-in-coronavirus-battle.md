@@ -4,7 +4,7 @@ date: 2020-04-29
 permalink: /resources/press-coverage/3000-volunteers-covid19
 layout: post
 ---
-*This press release was first published by The Straits Times on Apr 29, 2020.*
+*This press release was published by The Straits Times on Apr 29, 2020.*
 
 About 3,000 healthcare professionals have signed up to the SG Healthcare Corps since it was launched earlier this month to marshal volunteers in the fight against the coronavirus.
 
