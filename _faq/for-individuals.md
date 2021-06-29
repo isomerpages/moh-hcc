@@ -1,7 +1,8 @@
 ---
 title: For Individuals
-permalink: /faq/
+permalink: /faq/for-individuals
 ---
+
 
 
 ### **FAQ**
