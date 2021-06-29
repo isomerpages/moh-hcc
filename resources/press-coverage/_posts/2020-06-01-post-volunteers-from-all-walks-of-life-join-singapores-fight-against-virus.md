@@ -22,4 +22,4 @@ Helping to manage thousands of foreign workers and handle meal distribution whil
 
 Another volunteer, Mr Maran Paramanathan, 52, deputy director of air navigation services (policy) at the Civil Aviation Authority of Singapore, has helped out since April 20 in two dormitories in Changi East housing 1,500 migrant workers building Changi Airport's Terminal 5.
 
-Click here for the full article: [https://www.straitstimes.com/singapore/health/volunteers-from-all-walks-of-life-join-singapores-fight-against-virus](https://www.straitstimes.com/singapore/health/volunteers-from-all-walks-of-life-join-singapores-fight-against-virus)
+Link to article: [https://www.straitstimes.com/singapore/health/volunteers-from-all-walks-of-life-join-singapores-fight-against-virus](https://www.straitstimes.com/singapore/health/volunteers-from-all-walks-of-life-join-singapores-fight-against-virus)
