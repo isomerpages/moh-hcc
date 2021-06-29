@@ -14,4 +14,4 @@ Professor Mak said training will be provided for volunteers so that they can tak
 
 For non-healthcare workers, they may be tasked to do back-end, administrative and support roles to allow healthcare professionals doing those jobs to be redeployed on the front line.
 
-Click here for the full article: [https://www.tnp.sg/news/singapore/sg-healthcare-corps-expanded-include-non-healthcare-professionals](https://www.tnp.sg/news/singapore/sg-healthcare-corps-expanded-include-non-healthcare-professionals)
+Link to article: [https://www.tnp.sg/news/singapore/sg-healthcare-corps-expanded-include-non-healthcare-professionals](https://www.tnp.sg/news/singapore/sg-healthcare-corps-expanded-include-non-healthcare-professionals)
