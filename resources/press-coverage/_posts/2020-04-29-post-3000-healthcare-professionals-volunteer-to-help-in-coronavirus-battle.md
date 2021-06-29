@@ -10,4 +10,4 @@ About 3,000 healthcare professionals have signed up to the SG Healthcare Corps s
 
 The Ministry of Health (MOH) is also calling for more current and former medical professionals to step up and be on standby as Singapore prepares to handle a continued increase in the number of confirmed virus cases.
 
-Link to article: https://www.straitstimes.com/singapore/health/3000-hea[lthcare-professionals-volunteer-to-help-in-virus-battle](https://www.straitstimes.com/singapore/health/3000-healthcare-professionals-volunteer-to-help-in-virus-battle)
+Link to article: [https://www.straitstimes.com/singapore/health/3000-healthcare-professionals-volunteer-to-help-in-virus-battle](https://www.straitstimes.com/singapore/health/3000-healthcare-professionals-volunteer-to-help-in-virus-battle)
