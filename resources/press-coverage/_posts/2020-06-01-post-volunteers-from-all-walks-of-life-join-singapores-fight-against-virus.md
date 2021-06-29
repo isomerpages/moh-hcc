@@ -14,4 +14,12 @@ The Ministry of Health (MOH) said in response to queries that as of May 11, it h
 
 Among these people, 5,700 of them are healthcare professionals such as dentists, pharmacists and medics.
 
+Dr Lim Lii, president of the Singapore Dental Association, is volunteering to carry out swab tests in the community and training would-be swabbers.
+
+Educator Saad Hashmi, 28, responded to a call for volunteers at the S11 Dormitory @ Punggol in April.
+
+Helping to manage thousands of foreign workers and handle meal distribution while wearing full protective gear took some getting used to and some volunteers dropped out after the first day. Mr Hashmi lives onsite in the Punggol dorm with a few other volunteers and eats the same meals catered for dorm residents.
+
+Another volunteer, Mr Maran Paramanathan, 52, deputy director of air navigation services (policy) at the Civil Aviation Authority of Singapore, has helped out since April 20 in two dormitories in Changi East housing 1,500 migrant workers building Changi Airport's Terminal 5.
+
 Click here for the full article: https://www.straitstimes.com/singapore/health/volunteers-from-all-walks-of-life-join-singapores-fight-against-virus
