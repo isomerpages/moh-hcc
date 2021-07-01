@@ -24,6 +24,6 @@ sections:
       alt: Training for SHC Volunteers
   - resources:
       title: Press Coverage
-      subtitle: shc on the news
+      subtitle: SHC in the News
       button: View More
 ---
