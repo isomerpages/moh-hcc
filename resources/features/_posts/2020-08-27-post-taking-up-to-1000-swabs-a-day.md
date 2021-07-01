@@ -4,3 +4,12 @@ date: 2020-08-27
 permalink: /resources/features/1000-swabs-daily
 layout: post
 ---
+This feature was published by NUS Faculty of Science on Aug 27, 2020.
+
+Chloe was part of the SG Healthcare Corps in fighting COVID-19.
+
+Chloe volunteered with the Health Promotion Board from June to August 2020 as a Swabbing Assistant at Community Recovery facilities.
+
+During this time, she supported COVID-19 efforts by taking biological samples from foreign workers in dormitories and other quarantine facilities in Singapore. She also provided administrative support, including conducting triage and checking clients’ well-being.
+
+Link to feature: [https://www.science.nus.edu.sg/blog/2020/08/27/chloe-koh-wern-xuan/](https://www.science.nus.edu.sg/blog/2020/08/27/chloe-koh-wern-xuan/)
