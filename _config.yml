@@ -12,7 +12,7 @@ colors:
     - title: media-color-three
       color: "#f08d8f"
     - title: media-color-four
-      color: "#fe4174"
+      color: "#ff4548"
     - title: media-color-five
       color: "#ec1751"
 resources_name: resources
