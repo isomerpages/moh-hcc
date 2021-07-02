@@ -1,9 +1,10 @@
 ---
 title: Chloe Koh - Taking up to 1000 swabs a day
 date: 2020-08-27
-permalink: /resources/features/chloe-koh
+permalink: /resources/features/chloe-koh-swabber
 layout: post
 ---
+
 
 *This feature was published by NUS Faculty of Science on Aug 27, 2020.*
 
