@@ -23,7 +23,7 @@ sections:
       image: /images/SG%20Healthcare%20Corps_EK20421_web%20res.jpg
       alt: Training for SHC Volunteers
   - resources:
-      title: Press Coverage
-      subtitle: SHC in the News
+      title: Resources
+      subtitle: more about shc
       button: View More
 ---
