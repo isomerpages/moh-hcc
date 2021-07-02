@@ -24,6 +24,5 @@ sections:
       alt: Training for SHC Volunteers
   - resources:
       title: Resources
-      subtitle: more about shc
       button: View More
 ---
