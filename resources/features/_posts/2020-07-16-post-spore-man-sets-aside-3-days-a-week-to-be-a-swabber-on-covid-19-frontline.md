@@ -8,4 +8,4 @@ layout: post
 
 Fong saw that the call for volunteers, previously restricted to those with a healthcare background, was being opened up to those from “all walks of life”.
 
-As a swabber, Fong has the closest contact with the “clients” – those who are part of the targeted groups identified as part of the national testing 
+As a swabber, Fong has the closest contact with the “clients” – those who are part of the targeted groups identified as part of the national testing strategy for Covid-19.
