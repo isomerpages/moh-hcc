@@ -8,8 +8,6 @@ layout: post
 
 Mr Chan is one of some 7,200 non-medical volunteers from various backgrounds, ranging from Grab drivers to teachers to housewives, who have joined the SG Healthcare Corps in the fight against the coronavirus. They may assist on the front line, helping to take swabs or blood for tests. Others may support the care of seniors, by being a community care ambassador or a healthcare assistant.
 
-In addition to the SG Healthcare Corps, individuals have also been finding other ways to volunteer on the front line, by signing up directly with non-profit organisations or dormitories.
-
 The Ministry of Health (MOH) said in response to queries that as of May 11, it has received responses from more than 12,900 people keen to join the SG Healthcare Corps.
 
 Among these people, 5,700 of them are healthcare professionals such as dentists, pharmacists and medics.
