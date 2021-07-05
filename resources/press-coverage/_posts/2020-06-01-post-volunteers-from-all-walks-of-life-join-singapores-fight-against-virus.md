@@ -1,9 +1,10 @@
 ---
 title: Volunteers from all walks of life join Singapore's fight against virus
 date: 2020-06-01
-permalink: /resources/features/join-fight-against-virus
+permalink: /resources/press-coverage/join-fight-against-virus
 layout: post
 ---
+
 
 *This press release was published by The Straits Times on Jun 01, 2020.*
 
