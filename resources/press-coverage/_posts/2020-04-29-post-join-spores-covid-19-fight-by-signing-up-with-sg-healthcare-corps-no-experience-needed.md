@@ -11,4 +11,4 @@ As Covid-19 cases are increasing in Singapore, the healthcare sector needs more 
 
 Thus, former healthcare professionals and non-healthcare professionals alike are being invited to assist the SG Healthcare Corps in the fight against Covid-19.
 
-Link to article: [https://mustsharenews.com/sg-healthcare-corps/](https://mustsharenews.com/sg-healthcare-corps/)
+Link to full article: [https://mustsharenews.com/sg-healthcare-corps/](https://mustsharenews.com/sg-healthcare-corps/)
