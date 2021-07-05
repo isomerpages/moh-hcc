@@ -18,5 +18,5 @@ The experience of being a volunteer swabber has made Fong reflect on the importa
 
 Fong leaves us with some words of encouragement, which he hopes might convince some of those who are on the fence about stepping up to volunteer in some capacity.
 
-Link to full article:
+Link to full feature:
 [https://mothership.sg/2020/07/volunteer-swabber-covid-19-singapore-together/](https://mothership.sg/2020/07/volunteer-swabber-covid-19-singapore-together/)
