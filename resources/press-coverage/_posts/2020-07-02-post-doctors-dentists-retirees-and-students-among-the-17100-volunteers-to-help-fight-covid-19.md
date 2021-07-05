@@ -2,9 +2,10 @@
 title: Doctors, dentists, retirees and students among the 17,100 volunteers to
   help fight Covid-19
 date: 2020-07-02
-permalink: /resources/features/17100-volunteers
+permalink: /resources/press-coverage/17100-volunteers
 layout: post
 ---
+
 
 *This press release was published by The Straits Times on Jul 02, 2020.*
 
