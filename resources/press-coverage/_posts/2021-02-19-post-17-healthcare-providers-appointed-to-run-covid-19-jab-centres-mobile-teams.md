@@ -6,7 +6,7 @@ layout: post
 ---
 *This press release was published by The Business Times on Feb 19, 2021.*
 
-The MOH is looking into redeploying healthcare workers to give out Covid-19 vaccines, The Business Times (BT) has learnt.
+MOH is looking into redeploying healthcare workers to give out Covid-19 vaccines, The Business Times (BT) has learnt.
 
 Vaccinations in Singapore are mainly administered by nurses. Still, an MOH spokesperson told BT that “we will explore the need to train and deploy other healthcare staff” into these roles as the inoculation exercise scales up.
 
