@@ -10,4 +10,4 @@ The 26-year-old, who is known for her acting stints and as a prominent local DJ,
 
 Ms Rasif said she volunteered with the Singapore Healthcare Corps in April and underwent training before being deployed in May.
 
-Link to full article: [https://www.tnp.sg/news/singapore/jade-rasif-goes-popular-dj-working-covid-front-line](https://www.tnp.sg/news/singapore/jade-rasif-goes-popular-dj-working-covid-front-line)
+Link to full feature: [https://www.tnp.sg/news/singapore/jade-rasif-goes-popular-dj-working-covid-front-line](https://www.tnp.sg/news/singapore/jade-rasif-goes-popular-dj-working-covid-front-line)
