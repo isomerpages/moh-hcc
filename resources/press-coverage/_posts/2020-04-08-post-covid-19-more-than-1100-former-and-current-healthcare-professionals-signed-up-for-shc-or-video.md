@@ -9,4 +9,4 @@ layout: post
 
 More than 1,100 applications were submitted on the first day of the launch of the SG Healthcare Corps.
 
-Link to full article: [https://www.channelnewsasia.com/news/singapore/covid-19-more-than-1-100-former-and-current-healthcare-12622532](https://www.channelnewsasia.com/news/singapore/covid-19-more-than-1-100-former-and-current-healthcare-12622532)
+Link to Video: [https://www.channelnewsasia.com/news/singapore/covid-19-more-than-1-100-former-and-current-healthcare-12622532](https://www.channelnewsasia.com/news/singapore/covid-19-more-than-1-100-former-and-current-healthcare-12622532)
