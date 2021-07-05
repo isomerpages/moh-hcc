@@ -4,8 +4,6 @@ date: 2020-08-27
 permalink: /resources/features/chloe-koh-swabber
 layout: post
 ---
-
-
 *This feature was published by NUS Faculty of Science on Aug 27, 2020.*
 
 Chloe was part of the SG Healthcare Corps in fighting COVID-19.
@@ -20,4 +18,4 @@ It was physically draining, standing for hours drenched in sweat with the heat t
 
 Chloe says, “I was glad that my work made a difference in helping to detect cases early and to prevent new clusters from this early detection.”
 
-Link to feature: [https://www.science.nus.edu.sg/blog/2020/08/27/chloe-koh-wern-xuan/](https://www.science.nus.edu.sg/blog/2020/08/27/chloe-koh-wern-xuan/)
+Link to full feature: [https://www.science.nus.edu.sg/blog/2020/08/27/chloe-koh-wern-xuan/](https://www.science.nus.edu.sg/blog/2020/08/27/chloe-koh-wern-xuan/)
