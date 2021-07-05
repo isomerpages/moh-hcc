@@ -2,9 +2,10 @@
 title: "Covid-19: S'pore seeking volunteers from 'all walks of life' to support
   healthcare workers"
 date: 2020-04-28
-permalink: /resources/press-release/shc-volunteers-all-walks
+permalink: /resources/press-coverage/shc-volunteers-all-walks
 layout: post
 ---
+
 *This press release was published by Mothership.sg on Apr 28, 2020.*
 
 People from "all walks of life" are being asked to volunteer for Singapore's healthcare system in combating Covid-19, in response to the growing need for additional manpower.
