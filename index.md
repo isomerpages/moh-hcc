@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: Singapore Healthcare Corps
+title: SG Healthcare Corps
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
