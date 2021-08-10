@@ -9,10 +9,4 @@ contacts:
       - email: shc@moh.gov.sg
       - other: ""
     title: General Enquiries & Feedback
-  - content:
-      - phone: ""
-      - email: ""
-      - other: <a href="https://www.go.gov.sg/shc-change"
-          target="_blank">go.gov.sg/shc-change</a>
-    title: Change Request
 ---
