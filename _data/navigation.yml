@@ -6,7 +6,5 @@ links:
     resource_room: true
   - title: Join Us
     collection: join-us
-  - title: FAQ
-    collection: faq
   - title: Contact Us
     url: /contact-us
