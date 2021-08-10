@@ -71,7 +71,7 @@ permalink: /terms-of-use/
 31.    The Ministry of Health reserves the right to change the URL of this Web Site.
 
 #### **Permission for Use**
-32.  Where permission is required by these Terms of Use for the use of this Website or the Contents, you may apply for permission by writing to the Ministry of Health at moh_qsm@moh.gov.sg.
+32.  Where permission is required by these Terms of Use for the use of this Website or the Contents, you may apply for permission by writing to the Ministry of Health at <a href = "mailto: moh_qsm@moh.gov.sg">moh_qsm@moh.gov.sg</a>.
 33.  The Ministry of Health may, at its sole and absolute discretion, grant or refuse permission to use this Web Site or the Contents, and impose such conditions for the use of this Web Site or the Contents as it deems fit.
 
 #### **Governing Law and Jurisdiction**
