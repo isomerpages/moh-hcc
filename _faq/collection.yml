@@ -1,5 +1,4 @@
 collections:
   faq:
     output: true
-    order:
-      - for-individuals.md
+    order: []
