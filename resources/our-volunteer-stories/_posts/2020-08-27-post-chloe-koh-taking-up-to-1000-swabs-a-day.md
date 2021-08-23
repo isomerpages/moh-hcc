@@ -14,4 +14,4 @@ During this time, she supported COVID-19 efforts by taking biological samples fr
 
 Chloe says, “I was glad that my work made a difference in helping to detect cases early and to prevent new clusters from this early detection.”
 
-Link to full feature: [https://www.science.nus.edu.sg/blog/2020/08/27/chloe-koh-wern-xuan/](https://www.science.nus.edu.sg/blog/2020/08/27/chloe-koh-wern-xuan/)
+Link to full story: [https://www.science.nus.edu.sg/blog/2020/08/27/chloe-koh-wern-xuan/](https://www.science.nus.edu.sg/blog/2020/08/27/chloe-koh-wern-xuan/)
