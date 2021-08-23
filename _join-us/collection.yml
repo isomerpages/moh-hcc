@@ -3,5 +3,6 @@ collections:
     output: true
     order:
       - covid-19-deployments/.keep
+      - covid-19-deployments/home-vaccination-team-covid-19.md
       - for-individuals.md
       - community-care-ambassadors-covid-19.md
