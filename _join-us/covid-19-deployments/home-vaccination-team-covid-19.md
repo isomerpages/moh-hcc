@@ -1,8 +1,9 @@
 ---
 title: Home Vaccination Team (COVID-19)
-permalink: /join-us/covid-19-deployments/home-vac
+permalink: /join-us/covid-19-deployments/home-vaccination
 third_nav_title: Covid 19 Deployments
 ---
+
 
 **Description**
 
