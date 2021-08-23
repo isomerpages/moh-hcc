@@ -4,7 +4,7 @@ date: 2020-08-25
 permalink: /resources/news-highlights/moh-covid-addendum
 layout: post
 ---
-*This addendum was first published by Ministry of Health, Singapore on August 25, 2020.*
+*This addendum was first published by the Ministry of Health, Singapore on August 25, 2020.*
 
 **Continuing the Fight Against COVID-19**
 
