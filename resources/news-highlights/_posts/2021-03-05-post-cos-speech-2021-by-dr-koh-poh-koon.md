@@ -4,6 +4,8 @@ date: 2021-03-05
 permalink: /resources/news-highlights/cos-speech-2021
 layout: post
 ---
+*This speech was first published by the Ministry of Health, Singapore on 05 March 2021.*
+
 **Redesigning healthcare jobs and training pathways**
 
 COVID-19 has shown us the importance of maintaining a resilient core of healthcare workers. Following the launch of the SG Healthcare Corps (SHC) in April last year, over 5,000 workers and volunteers have been trained, and provided support in areas such as the care of elderly in nursing homes, swab operations, laboratory testing and vaccination operations.
