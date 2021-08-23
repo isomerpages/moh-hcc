@@ -4,7 +4,7 @@ date: 2020-04-28
 permalink: /resources/news-highlights/covid19-strategy
 layout: post
 ---
-*This press release was published by the Ministry of Health, Singapore on April 28, 2020.*
+*This press release was first published by the Ministry of Health, Singapore on April 28, 2020.*
 
 **Augmenting our Healthcare Workforce**
 
