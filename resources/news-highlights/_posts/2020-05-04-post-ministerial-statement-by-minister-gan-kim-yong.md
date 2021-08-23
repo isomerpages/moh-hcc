@@ -4,7 +4,7 @@ date: 2020-05-04
 permalink: /resources/news-highlights/ministerial-statement
 layout: post
 ---
-*This ministerial statement was first published by Ministry of Health, Singapore on May 04, 2020.*
+*This ministerial statement was first published by the Ministry of Health, Singapore on May 04, 2020.*
 
 **Supporting Our Healthcare Workers**
 
