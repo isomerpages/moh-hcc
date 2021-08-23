@@ -5,7 +5,7 @@ date: 2020-10-06
 permalink: /resources/news-highlights/covid19-new-wave-prep
 layout: post
 ---
-This Parliamentary QA was first published by the Ministry of Health, Singapore on October 06, 2020.
+*This Parliamentary QA was first published by the Ministry of Health, Singapore on October 06, 2020.*
 
 **Additional resources and hiring for the restructured hospitals**
 
