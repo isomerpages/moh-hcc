@@ -4,7 +4,7 @@ date: 2021-03-05
 permalink: /resources/news-highlights/cos-speech-2021
 layout: post
 ---
-*This speech was first published by the Ministry of Health, Singapore on 05 March 2021.*
+*This speech was first published by the Ministry of Health, Singapore on March 05, 2021.*
 
 **Redesigning healthcare jobs and training pathways**
 
