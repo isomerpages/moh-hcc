@@ -15,7 +15,7 @@ sections:
       button: join us now
       url: /join-us/for-individuals
   - infopic:
-      title: "#Standby4SG"
+      title: Be a Healthcare Volunteer
       subtitle: why join shc
       description: SHC is "a platform for citizen engagement and volunteerism in
         healthcare during peacetime, and a reserve pool in times of crisis" -
