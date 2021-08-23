@@ -1,8 +1,9 @@
 ---
 title: Home Vaccination Team (COVID-19)
-permalink: /join-us/hvt-covid19
+permalink: /join-us/covid-19-deployments/home-vac
 third_nav_title: Covid 19 Deployments
 ---
+
 **Description**
 
 We are looking for Doctors with a valid practising certificate with the Singapore Medical Council and Registered Nurses with a valid practising certificate with the Singapore Nursing Board to assist with Home Vaccination Team (HVT) operations. Doctors and Registered Nurses with Basic Cardic Life Support (BCLS) certification are preferred.
