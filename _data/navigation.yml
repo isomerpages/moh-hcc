@@ -4,9 +4,9 @@ links:
     collection: about-us
   - title: Join Us
     collection: join-us
-  - title: Resources
-    resource_room: true
   - title: FAQ
     url: /faq
+  - title: News & Resources
+    resource_room: true
   - title: Contact Us
     url: /contact-us
