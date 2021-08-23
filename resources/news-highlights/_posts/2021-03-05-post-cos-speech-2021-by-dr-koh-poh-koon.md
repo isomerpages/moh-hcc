@@ -12,4 +12,4 @@ COVID-19 has shown us the importance of maintaining a resilient core of healthca
 
 Going forward, we plan to develop the Corps into a platform for citizen engagement and volunteerism in healthcare during peacetime, and to serve as a reserve pool in times of crisis.
 
-Link to full speech: https://www.moh.gov.sg/news-highlights/details/speech-by-dr-koh-poh-koon-senior-minister-of-state-for-health-at-the-ministry-of-health-committee-of-supply-debate-2021-on-friday-5-march-2021
+Link to full speech: [https://www.moh.gov.sg/news-highlights/details/speech-by-dr-koh-poh-koon-senior-minister-of-state-for-health-at-the-ministry-of-health-committee-of-supply-debate-2021-on-friday-5-march-2021](https://www.moh.gov.sg/news-highlights/details/speech-by-dr-koh-poh-koon-senior-minister-of-state-for-health-at-the-ministry-of-health-committee-of-supply-debate-2021-on-friday-5-march-2021)
