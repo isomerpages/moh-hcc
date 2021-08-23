@@ -6,8 +6,8 @@ agency_name: SG Healthcare Corps
 contacts:
   - content:
       - phone: ""
-      - email: shc@moh.gov.sg
-      - other: ""
+      - email: ""
+      - other: 'Please email to <a href = "mailto: shc@moh.gov.sg">shc@moh.gov.sg</a>.'
     title: General Enquiries & Feedback
   - content:
       - phone: ""
