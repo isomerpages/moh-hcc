@@ -4,5 +4,6 @@ collections:
     order:
       - covid-19-deployments/.keep
       - covid-19-deployments/home-vaccination-team-covid-19.md
+      - covid-19-deployments/seniors-engagement-programme-covid-19.md
       - for-individuals.md
       - community-care-ambassadors-covid-19.md
