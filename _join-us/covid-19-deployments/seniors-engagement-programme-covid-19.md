@@ -14,3 +14,9 @@ If you are interested, please sign up in the form below.
 <iframe id="iframe" src="https://form.gov.sg/610ca03a41dbd2001274913a" style="width:100%;height:500px"></iframe>
 
 <div style="font-family:Sans-Serif;font-size:12px;color:#999;opacity:0.5;padding-top:5px">Powered by <a href="https://form.gov.sg" style="color: #999">FormSG</a></div>
+
+**What's Next?**
+
+Details of shortlisted candidates will be sent to SHC's partner agencies overseeing this deployment. The agencies will contact the shortlisted candidates for an interview and provide more information on the role.
+
+Please note that only shortlisted candidates will be contacted.
