@@ -4,7 +4,7 @@ date: 2020-08-27
 permalink: /resources/features/chloe-koh-swabber
 layout: post
 ---
-*This feature was published by NUS Faculty of Science on Aug 27, 2020.*
+*This feature was first published by NUS Faculty of Science on August 27, 2020.*
 
 Chloe was part of the SG Healthcare Corps in fighting COVID-19.
 
