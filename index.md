@@ -22,7 +22,7 @@ sections:
         healthcare during peacetime, and a reserve pool in times of crisis" -
         SMS Koh, 2021
       button: join us
-      url: /join-us/for-individuals
+      url: /join-us/volunteer-registration
       image: /images/SG%20Healthcare%20Corps_EK20421_web%20res.jpg
       alt: Training for SHC Volunteers
   - resources:
