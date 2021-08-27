@@ -13,7 +13,8 @@ sections:
       background: /images/SG%20Healthcare%20Corps_EK20215_web%20res.jpg
       button: join us now
       url: /join-us/for-individuals
-      subtitle: A Corps of Healthcare Volunteers
+      subtitle: A corps of healthcare volunteers serving alongside our healthcare
+        workforce to enhance the resilience of Singapore’s healthcare system.
   - infopic:
       title: Be a Healthcare Volunteer
       subtitle: why join shc
