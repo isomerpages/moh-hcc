@@ -8,7 +8,7 @@ permalink: /faq
 
 [3.I have signed up via the Volunteer Registration Form. What's next?](#3-i-have-signed-up-via-the-volunteer-registration-form-whats-next)
 
-[4. How and where will I serve, if I am activated?](#4-how-and-where-will-i-serve-if-I-am-activated)
+[4. How and where will I serve, if I am activated?](#4-how-and-where-will-i-serve-if-i-am-activated)
 
 [5. I submitted my application, but I wish to change some details. What should I do?](#5-i-submitted-my-application-but-i-wish-to-change-some-details-what-should-i-do)
 
