@@ -4,9 +4,8 @@ title: SG Healthcare Corps
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
-notification: "[COVID-19] We are looking for Doctors to support Home Vaccination
-  Team & Seniors Engagement Programme. If you are able to support, please join
-  us now!"
+notification: "[COVID-19] We are looking for Doctors to support our Seniors
+  Engagement Programme. If you are able to support, please join us now!"
 sections:
   - hero:
       title: SG Healthcare Corps
