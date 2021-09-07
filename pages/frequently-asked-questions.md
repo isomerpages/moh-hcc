@@ -21,3 +21,9 @@ Thank you for your interest in joining the SG Healthcare Corps! We will be in to
 
 #### 4. How and where will I serve, if I am activated?
 You will be invited to sign up for deployment opportunities that have a good match with your healthcare background and expertise. Sites where opportunities may arise include public healthcare, community care, and primary care institutions. You will support our healthcare workforce in delivering care and assurance to patients in need.
+
+#### 5. I submitted my application, but I wish to change some details. What should I do?
+If there are changes to your plans or profile, please inform us by submitting a request at [go.gov.sg/shc-change](go.gov.sg/shc-change) using the same name, email address and contact number that was used in the original form. 
+
+#### 6. I have medical condition(s) that my complicate my deployment. What should I do?
+Please keep us informed via email. This will be taken into consideration when activating you for training and/or deployment. You may let us know if you would like to be contacted if other suitable opportunity arises, or if you wish to withdraw your participation from the SG Healthcare Corps. If you are contacted by HR, please keep them informed of your medical conditions, and they should be able to advise you accordingly.
