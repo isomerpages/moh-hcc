@@ -2,6 +2,9 @@
 title: Frequently Asked Questions
 permalink: /faq
 ---
+[Click here to go to header](#this-is-the-header)
+## This is the header
+
 [1. Who can join the SG Healthcare Corps?](####-1.-who-can-join-the-sg-healthcare-corps?)
 
 [2. Can I still sign up if I am currently employed in another (healthcare) organisation? Should I inform my current employer that I have signed up for SG Healthcare Corps?](####-2.-can-i-still-sign-up-if-i-am-currently-employed-in-another-(healthcare)-organisation?-should-i-inform-my-current-employer-that-i-have-signed-up-for-sg-healthcare-corps?)
