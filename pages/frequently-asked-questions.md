@@ -25,5 +25,5 @@ You will be invited to sign up for deployment opportunities that have a good mat
 #### 5. I submitted my application, but I wish to change some details. What should I do?
 If there are changes to your plans or profile, please inform us by submitting a request at [go.gov.sg/shc-change](go.gov.sg/shc-change) using the same name, email address and contact number that was used in the original form. 
 
-#### 6. I have medical condition(s) that my complicate my deployment. What should I do?
+#### 6. I have medical condition(s) that may complicate my deployment. What should I do?
 Please keep us informed via email. This will be taken into consideration when activating you for training and/or deployment. You may let us know if you would like to be contacted if other suitable opportunity arises, or if you wish to withdraw your participation from the SG Healthcare Corps. If you are contacted by HR, please keep them informed of your medical conditions, and they should be able to advise you accordingly.
