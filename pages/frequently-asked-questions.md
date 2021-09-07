@@ -2,8 +2,6 @@
 title: Frequently Asked Questions
 permalink: /faq
 ---
-[Click here to go to header](#this-is-the-header)
-
 [1. Who can join the SG Healthcare Corps?](###1.-who-can-join-the-sg-healthcare-corps?)
 
 [2. Can I still sign up if I am currently employed in another (healthcare) organisation? Should I inform my current employer that I have signed up for SG Healthcare Corps?](###2.-can-i-still-sign-up-if-i-am-currently-employed-in-another-(healthcare)-organisation?-should-i-inform-my-current-employer-that-i-have-signed-up-for-sg-healthcare-corps?)
@@ -20,8 +18,6 @@ You are still welcome to sign up. You should concurrently inform your current em
 
 #### 3. I have signed up via the Volunteer Registration Form. What's next?
 Thank you for your interest in joining the SG Healthcare Corps! We will be in touch with you via email or phone call to confirm your registration with the Corps. We will then contact you of any suitable onboarding, training, and/or matched institution(s) that can benefit from your help. Stay tuned!
-
-## This is the header
 
 #### 4. How and where will I serve, if I am activated?
 You will be invited to sign up for deployment opportunities that have a good match with your healthcare background and expertise. Sites where opportunities may arise include public healthcare, community care, and primary care institutions. You will support our healthcare workforce in delivering care and assurance to patients in need.
