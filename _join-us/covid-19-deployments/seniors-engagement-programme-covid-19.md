@@ -19,4 +19,4 @@ If you are interested, please sign up in the form below.
 
 **What's Next?**
 
-We will work with PA and SGO to identify volunteers and contact you when there is a match in availability, timing, location, and prerequisites. Feel free to let us know if your have further enquiries at shc@moh.gov.sg.
+We will work with PA and SGO to identify volunteers and contact you when there is a match in availability, timing, location, and prerequisites. Feel free to let us know if your have further enquiries at <a href = "mailto: shc@moh.gov.sg">shc@moh.gov.sg</a>.
