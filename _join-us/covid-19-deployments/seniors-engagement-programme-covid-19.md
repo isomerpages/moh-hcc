@@ -5,7 +5,7 @@ third_nav_title: Covid 19 Deployments
 ---
 **Description**
 
-We are partnering with the People's Association (PA) and Agency for Integrated Care, Silver General Office (SGO) on a Seniors Engagement Programme (SEP) where doctors will do house visits to the homes of selected elderly and address their concerns regarding the national COVID-19 vaccination programme.
+We are partnering with the People's Association (PA) and the Agency for Integrated Care, Silver General Office (SGO) on a Seniors Engagement Programme (SEP) where doctors will do house visits to the homes of selected elderly and address their concerns regarding the national COVID-19 vaccination programme.
 
 We are looking for doctors with a valid practising certificate with the Singapore Medical Council who are interested in the attachment with PA or SGO. As this is an outreach programme, doctors will only be required to engage the elderly together with the regular volunteers in that community, and do not need to administer any vaccinations for the elderly. Doctors can choose to contribute in any of the deployment locations islandwide. Basic Cardiac Life Support (BCLS) certification is not required.
 
