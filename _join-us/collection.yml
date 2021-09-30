@@ -3,3 +3,4 @@ collections:
     output: true
     order:
       - volunteer-registration.md
+      - supporting-covid-19-operations.md
