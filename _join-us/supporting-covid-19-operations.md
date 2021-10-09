@@ -17,4 +17,4 @@ Please register your interest here:
 
 **What’s Next?**
 
-Thank you for your interest in joining the SG Healthcare Corps! We will be in touch with you via email or phone call to confirm your registration with the Corps. We will then contact you of any suitable onboarding, training, and/or matched institution(s) that can benefit from your help. Stay tuned!
+Thank you for your interest in joining the SG Healthcare Corps! We will be in touch with you via email or phone call to confirm your registration with the Corps. We will then contact you of any suitable deployments, training, and/or matched institution(s) that can benefit from your help. Stay tuned!
