@@ -6,7 +6,7 @@ permalink: /faq
 
 [2. Can I still sign up if I am currently employed in another (healthcare) organisation? Should I inform my current employer that I have signed up for SG Healthcare Corps?](#2-can-i-still-sign-up-if-i-am-currently-employed-in-another-healthcare-organisation-should-i-inform-my-current-employer-that-i-have-signed-up-for-sg-healthcare-corps)
 
-[3.I have signed up via the SHC Member Registration Form. What's next?](#3-i-have-signed-up-via-the-shc-member-registration-form-whats-next)
+[3.I have signed up via the Volunteer Registration Form. What's next?](#3-i-have-signed-up-via-the-volunteer-registration-form-whats-next)
 
 [4. How and where will I serve, if I am activated?](#4-how-and-where-will-i-serve-if-i-am-activated)
 
