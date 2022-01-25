@@ -5,7 +5,7 @@ description: ""
 ---
 We welcome both healthcare professionals and persons from all walks of life to join the Singapore Healthcare Corps (SHC). Training will be provided where required. Members must at least 18 years old at the time of deployment.
 
-Please register your interest to be a member of the SG Healthcare Corps:
+Please register your interest to volunteer with us here:
 <div style="font-family:Sans-Serif;font-size:15px;color:#000;opacity:0.9;padding-top:5px;padding-bottom:8px">If the form below is not loaded, you can also fill it in at <a href="https://form.gov.sg/61231982b66813001200927c">here</a>.</div>
 
 <!-- Change the width and height values to suit you best -->
