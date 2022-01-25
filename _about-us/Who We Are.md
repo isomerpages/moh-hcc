@@ -3,7 +3,7 @@ title: Who We Are
 permalink: /who-we-are/
 description: ""
 ---
-At SG Healthcare Corps (SHC), we believe that everyone can play a part in the delivery of healthcare to the community, during both peace time and disease outbreaks. Our team is made up of both dedicated healthcare professionals and laypersons who did not have any prior healthcare background or training.
+At SG Healthcare Corps (SHC), we believe that everyone can play a part in the delivery of healthcare to the community during peace time and disease outbreaks, regardless if you are a healthcare professional or a layperson without prior healthcare background.
 
 ##### OUR VISION
 
