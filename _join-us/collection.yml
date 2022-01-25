@@ -2,5 +2,5 @@ collections:
   join-us:
     output: true
     order:
-      - Current Opportunities.md
+      - Supporting Covid 19 Operations.md
       - Be a SHC Volunteer.md
