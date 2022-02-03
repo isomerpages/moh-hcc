@@ -17,7 +17,6 @@ Please register your interest to volunteer with us here:
 <iframe id="iframe" src="https://form.gov.sg/6149f2d27eb74e001278690a" style="width:100%;height:500px"></iframe>
 
 <div style="font-family:Sans-Serif;font-size:12px;color:#999;opacity:0.5;padding-top:5px">Powered by <a href="https://form.gov.sg" style="color: #999">FormSG</a></div>
- 
 
 #### What’s Next?
 Thank you for your interest in joining the SG Healthcare Corps! We will be in touch with you via email or phone call to confirm your registration with the Corps. We will then contact you of any suitable deployments, training, and/or matched institution(s) that can benefit from your help. Stay tuned!
