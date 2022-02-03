@@ -1,5 +1,0 @@
-collections:
-  join-us:
-    output: true
-    order:
-      - COVID 19 Operations.md
