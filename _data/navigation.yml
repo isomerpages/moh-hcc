@@ -2,8 +2,6 @@ logo: /images/SHC%20Logo%20-%20High%20Res.png
 links:
   - title: About Us
     collection: about-us
-  - title: Join Us
-    collection: join-us
   - title: FAQ
     url: /faq
   - title: News & Resources
