@@ -25,4 +25,4 @@ Thank you for your interest in joining the SG Healthcare Corps! We will be in to
 There are deployment opportunities across a range of settings and roles, across the public healthcare institutions and community care organisations. when matching you to suitable opportunities, we will take into account your past experience and training, availability and personal preferences.
 
 #### 5. I submitted my application, but I wish to change some details. What should I do?
-Please send in your request to shc@moh.gov.sg while indicating the same name, email address and contact number that was used in your original application.
+Please send in your request to <a href = "mailto: shc@moh.gov.sg">shc@moh.gov.sg</a> while indicating the same name, email address and contact number that was used in your original application.
