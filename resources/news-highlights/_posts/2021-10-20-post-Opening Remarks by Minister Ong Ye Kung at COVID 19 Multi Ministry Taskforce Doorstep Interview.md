@@ -6,7 +6,7 @@ date: 2021-10-20
 layout: post
 description: ""
 ---
-*This opening remarks was first published by the Ministry of Health, Singapore on October 20, 2021.*
+*This opening remark was first published by the Ministry of Health, Singapore on October 20, 2021.*
 
 MOH is doing whatever we can to support and bolster the hospitals.
 
