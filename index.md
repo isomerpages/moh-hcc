@@ -1,7 +1,7 @@
 ---
 layout: homepage
 title: SG Healthcare Corps
-description: Brief site description here
+description: An Official Website of the Singapore Healthcare Corps, Ministry of Health
 image: /images/isomer-logo.svg
 permalink: /
 notification: ""
@@ -27,3 +27,4 @@ sections:
       title: News & Resources
       button: View More
 ---
+
