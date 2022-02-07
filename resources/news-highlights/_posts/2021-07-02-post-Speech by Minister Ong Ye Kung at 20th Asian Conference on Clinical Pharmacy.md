@@ -7,6 +7,8 @@ description: ""
 ---
 *This speech was first published by the Ministry of Health, Singapore on July 02, 2021.*
 
+**An Adaptable Healthcare Community**
+
 To meet with the surge in workload, former pharmacy colleagues came forward and returned to the frontline as part of the Singapore Healthcare Corps, demonstrating immense sense of camaraderie, pride and professionalism. 
 
 It should be noted that during this period, many workers without experience in healthcare also stepped forward, assuming roles such as swabbers, and contract tracers. They cannot do the work of nurses or pharmacists, but with proper training and guidance, they discharge their frontline responsibilities admirably, and is an indispensable part of our COVID-19 fighting force. 
