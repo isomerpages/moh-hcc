@@ -5,9 +5,7 @@ permalink: /resources/news-highlights/covid19-press-conference
 layout: post
 description: ""
 ---
-
-
-This speech was first published by the Ministry of Health, Singapore on December 14, 2020.
+*This speech was first published by the Ministry of Health, Singapore on December 14, 2020.*
 
 **Taking stock of our COVID-19 response**
 
