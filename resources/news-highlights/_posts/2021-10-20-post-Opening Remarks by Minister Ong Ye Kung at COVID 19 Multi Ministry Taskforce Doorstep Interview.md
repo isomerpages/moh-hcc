@@ -8,6 +8,8 @@ description: ""
 ---
 *This opening remark was first published by the Ministry of Health, Singapore on October 20, 2021.*
 
+**Supporting Our Hospitals**
+
 MOH is doing whatever we can to support and bolster the hospitals.
 
 * If need be, we will open up more ICU beds, the next leap would be to 300 beds, but that will be at the expense of further degradation of normal service and normal medical care.
