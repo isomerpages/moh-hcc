@@ -13,7 +13,7 @@ Do note that for deployments to certain professional roles, individuals will nee
 
 Due to the nature of COVID-19 operations, these deployments will largely be into **paid contract positions**, on either a full-time or part-time basis. The specific job scopes and terms of service will depend on the receiving organisations, and the needs on the ground at the time.
 
-If you are keen to contribute to this capacity, do register your interest at [go.gov.sg/shc-covidops](https://www.go.gov.sg/shc-covidops).
+If you are keen to contribute in this capacity, do register your interest at [go.gov.sg/shc-covidops](https://www.go.gov.sg/shc-covidops).
 
 <div style="font-family:Sans-Serif;font-size:15px;color:#000;opacity:0.9;padding-top:5px;padding-bottom:8px">If the form below is not loaded, you can also fill it at <a href="https://form.gov.sg/6149f2d27eb74e001278690a">go.gov.sg/shc-covidops</a>.</div>
 
