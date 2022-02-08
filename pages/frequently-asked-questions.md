@@ -10,19 +10,21 @@ permalink: /faq
 
 [4. How and where will I serve, if I am activated?](#4-how-and-where-will-i-serve-if-i-am-activated)
 
-[5. I submitted my application, but I wish to change some details. What should I do?](#5-i-submitted-my-application-but-i-wish-to-change-some-details-what-should-i-do)
+[5. I have submitted my application, but wish to update my details. What should I do?](#5-i-have-submitted-my-application-but-wish-to-update-my-details-what-should-i-do)
 
 #### 1. Who can join the SG Healthcare Corps?
 We welcome people from all backgrounds, both healthcare professionals and laypersons. Please note that you must be aged 18 years old and above to be considered for deployment.
 
 #### 2. Can I still sign up if I am currently employed in another organisation? Should I inform my current employer that I have signed up for SG Healthcare Corps? 
-You are still welcome to sign up. 
+You are still welcome to sign up. If a suitable deployment opportunity is identified for you, you will be put in touch with the receiving organisations, which will be able to share more information regarding the deployment, to help you decide whether to proceed.
+
+Before you agree to any deployment, we advise you to inform your employer beforehand and obtain any required permissions. For current healthcare professionals in particular, you will need to comply with any employment guidelines that your employer may have.
 
 #### 3. I have signed up with SG Healthcare Corps. What's next? 
-Thank you for your interest in joining the SG Healthcare Corps! We will be in touch with you via email or phone call to confirm your registration with the Corps. We will then contact you of any suitable onboarding, training, and/or matched institution(s) that can benefit from your help. Stay tuned!
+Thank you for your interest! We will be in touch with you via email or phone call to confirm your registration with the Corps. We will keep you apprised of deployment opportunities as they arise. If suitable deployment opportunities are identified for you, you will be put in touch with the receiving organisations, which will be able to share more information to help you decide whether to proceed.
 
 #### 4. How and where will I serve, if I am activated?
 There are deployment opportunities across a range of settings and roles, across the public healthcare institutions and community care organisations. When matching you to suitable opportunities, we will take into account your past experience and training, availability and personal preferences.
 
-#### 5. I submitted my application, but I wish to change some details. What should I do?
+#### 5. I have submitted my application, but wish to update my details. What should I do?
 Please send in your request to <a href = "mailto: shc@moh.gov.sg">shc@moh.gov.sg</a>, indicating the name, email address and contact number that was used in your original application.
