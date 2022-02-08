@@ -22,4 +22,4 @@ If you are keen to contribute to this capacity, do register your interest at [go
 
 <div style="font-family:Sans-Serif;font-size:12px;color:#999;opacity:0.5;padding-top:5px">Powered by <a href="https://form.gov.sg" style="color: #999">FormSG</a></div>
 
-If suitable deployment opportunities are identified for you, you will be put in touch with the receiving organisations, which will be able to share more information to help you decide whether to proceed.
+If suitable deployment opportunities are identified for you, you will be put in touch with our partner organisations, which will be able to share more information to help you decide whether to proceed.
