@@ -5,13 +5,13 @@ date: 2022-02-03
 layout: post
 description: ""
 ---
-**Support for COVID-19 Operations**
+#### SUPPORT FOR COVID-19 OPERATIONS
 
 With the number of COVID-19 cases on the rise, we require support in a range of COVID-19 operations, to augment healthcare manpower in care settings. This includes the management of COVID-19 positive patients in the hospitals and community care facilities.
 
 Do note that for deployments to certain professional roles, individuals will need to be registered with their respective professional boards, AND hold a valid practising certificate, in order to be deployed. These professions include, but are not limited to: doctors, nurses, pharmacists, diagnostic radiographers, occupational therapists and physiotherapists.
 
-Due to the nature of COVID-19 operations, these deployments will largely be into **paid contract positions**, on either a full-time or part-time basis. The specific job scopes and terms of service will depend on the receiving organisations, and the needs on the ground at the time.
+Due to the nature of COVID-19 operations, these deployments will largely be into <u>**paid contract positions**</u>, on either a full-time or part-time basis. The specific job scopes and terms of service will depend on the receiving organisations, and the needs on the ground at the time.
 
 If you are keen to contribute in this capacity, do register your interest at [go.gov.sg/shc-covidops](https://www.go.gov.sg/shc-covidops).
 
