@@ -16,7 +16,7 @@ colors:
     - title: media-color-five
       color: "#ec1751"
 resources_name: resources
-description: Website of the SG Healthcare Corps, Ministry of Health
+description: Official Website of SG Healthcare Corps, Ministry of Health
 permalink: none
 baseurl: ""
 exclude:
