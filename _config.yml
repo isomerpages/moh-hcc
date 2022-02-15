@@ -1,4 +1,4 @@
-title: SG Healthcare Corps
+title: Singapore Healthcare Corps
 url: ""
 favicon: /images/SG%20favicon%20for%20website.png
 colors:
@@ -16,7 +16,7 @@ colors:
     - title: media-color-five
       color: "#ec1751"
 resources_name: resources
-description: An Official Website of the Singapore Healthcare Corps, Ministry of Health
+description: An Official Website of the SG Healthcare Corps, MOH
 permalink: none
 baseurl: ""
 exclude:
