@@ -21,7 +21,7 @@ permalink: /terms-of-use/
 8.   All materials contained in this Web Site (the “Contents”), including without limitation text, images, music, computer programmes and all other kinds of works, are protected by applicable copyright, trademark and/or other intellectual property laws . All rights, title and/or interests in the Contents are owned by, licensed to or controlled by the Ministry of Health.
 
 #### **Privacy Policy**
-9.   Click [here](www.healthcarecorps.gov.sg/privacy/) to view this Web Site’s Privacy Policy Statement.
+9.   Click <a href="www.healthcarecorps.gov.sg/privacy/">here</a> to view this Web Site’s Privacy Policy Statement.
 
 #### **Restrictions on use**
 10.  You may access and use this Web Site and the Contents in the manner permitted in these Terms of Use.
