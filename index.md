@@ -1,36 +1,34 @@
 ---
 layout: homepage
-title: Isomer Site
-description: Brief site description here
-image: /images/isomer-logo.svg
+title: Singapore Healthcare Corps
+description: Official Website of the SG Healthcare Corps, Ministry of Health
 permalink: /
-notification: Here's a notification bar you can use!
+notification: ""
 sections:
-    - hero:
-        title: Hero title
-        subtitle: Hero subtitle
-        background: /images/hero-banner.png
-        button: Contact Us
-        url: /contact-us/
-        key_highlights:
-            - title: Highlight A
-              description: Important highlight A is important
-              url: https://google.com
-            - title: Highlight B
-              description: Important highlight B is equally important
-              url: https://gmail.com
-            - title: Page A
-              description: Page A is important too
-              url: /privacy/
-    - infobar:
-        title: Infobar title
-        subtitle: Subtitle
-        description: About a sentence worth of description here
-        button: Button text
-        url: /faq/
-    - resources:
-        title: Media
-        subtitle: Learn more
-        button: View More
+  - hero:
+      title: SG Healthcare Corps
+      background: /images/SG%20Healthcare%20Corps_EK20215_web%20res.jpg
+      button: join us now
+      url: /join-us
+      subtitle: A corps of healthcare volunteers serving alongside our healthcare
+        workforce to enhance the resilience of Singapore’s healthcare system.
+  - infopic:
+      title: Be a Healthcare Volunteer
+      subtitle: why join shc
+      description: SHC is "a platform for citizen engagement and volunteerism in
+        healthcare during peace time, and a reserve pool in times of crisis" -
+        SMS Koh, 2021
+      button: join us
+      url: /join-us
+      image: /images/SG%20Healthcare%20Corps_EK20421_web%20res.jpg
+      alt: Training for SHC Volunteers
+  - resources:
+      title: News & Resources
+      button: View More
 ---
+
+
+
+
+
 
