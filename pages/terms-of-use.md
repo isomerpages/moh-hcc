@@ -3,7 +3,7 @@ title: Terms of Use
 permalink: /terms-of-use/
 ---
 ### **TERMS OF USE**
-1.  Thank you for visiting the Singapore Healthcare Corps, Ministry of Health corporate website. Access to any page in [www.healthcarecorps.gov.sg](www.healthcarecorps.gov.sg) (henceforth known as "Web Site") is governed by the terms and conditions stipulated below (“Terms”). Your access and use of this Web Site constitute your acceptance and agreement to be bound by these terms and conditions of use (“Terms of Use”). If you do not consent to be bound by these Terms of Use, please discontinue your access and do not use this Web Site. 
+1.  Thank you for visiting the Singapore Healthcare Corps, Ministry of Health corporate website. Access to any page in [www.healthcarecorps.gov.sg](https://www.healthcarecorps.gov.sg) (henceforth known as "Web Site") is governed by the terms and conditions stipulated below (“Terms”). Your access and use of this Web Site constitute your acceptance and agreement to be bound by these terms and conditions of use (“Terms of Use”). If you do not consent to be bound by these Terms of Use, please discontinue your access and do not use this Web Site. 
 2.  This Web Site is maintained by and belongs to the Ministry of Health.
 3.  In case of any violation of these Terms of Use, we reserve the right to seek all remedies available under the law and in equity for such violations. These Terms of Use apply in respect of any and all visits to this Web Site, both now and in the future.
 4.  In these Terms, any reference to “SG Healthcare Corps”, “Ministry of Health”, “we”, “our” and “us” refers to the Government of Singapore.
@@ -21,7 +21,7 @@ permalink: /terms-of-use/
 8.   All materials contained in this Web Site (the “Contents”), including without limitation text, images, music, computer programmes and all other kinds of works, are protected by applicable copyright, trademark and/or other intellectual property laws . All rights, title and/or interests in the Contents are owned by, licensed to or controlled by the Ministry of Health.
 
 #### **Privacy Policy**
-9.   Click <a href="www.healthcarecorps.gov.sg/privacy/">here</a> to view this Web Site’s Privacy Policy Statement.
+9.   Click <a href="https://www.healthcarecorps.gov.sg/privacy/">here</a> to view this Web Site’s Privacy Policy Statement.
 
 #### **Restrictions on use**
 10.  You may access and use this Web Site and the Contents in the manner permitted in these Terms of Use.
