@@ -1,6 +1,6 @@
 ---
 title: Frequently Asked Questions
-permalink: /faq
+permalink: /faq/
 ---
 [1. Who can join the SG Healthcare Corps?](#1-who-can-join-the-sg-healthcare-corps)
 
@@ -8,7 +8,7 @@ permalink: /faq
 
 [3.I have signed up with SG Healthcare Corps. What's next?](#3-i-have-signed-up-with-sg-healthcare-corps-whats-next)
 
-[4. How and where will I serve, if I am activated?](#4-how-and-where-will-i-serve-if-i-am-activated)
+[4. How and where will I volunteer?](#4-how-and-where-will-i-serve-if-i-am-activated)
 
 [5. I have submitted my application, but wish to update my details. What should I do?](#5-i-have-submitted-my-application-but-wish-to-update-my-details-what-should-i-do)
 
