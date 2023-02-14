@@ -1,13 +1,13 @@
 ---
 title: Join Us
-permalink: /join-us
+permalink: /join-us/
 date: 2022-02-03
 layout: post
 description: ""
 ---
 #### SUPPORT FOR COVID-19 OPERATIONS
 
-With the number of COVID-19 cases on the rise, we require support in a range of COVID-19 operations, to augment healthcare manpower in care settings. This includes the management of COVID-19 positive patients in the hospitals and community care facilities.
+With number of COVID-19 cases on the rise, we require support in a range of COVID-19 operations, to augment healthcare manpower in care settings. This includes the management of COVID-19 positive patients in the hospitals and community care facilities.
 
 Do note that for deployments to certain professional roles, individuals will need to be registered with their respective professional boards, AND hold a valid practising certificate, in order to be deployed. These professions include, but are not limited to: doctors, nurses, pharmacists, diagnostic radiographers, occupational therapists and physiotherapists.
 
