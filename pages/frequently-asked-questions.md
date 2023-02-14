@@ -23,7 +23,7 @@ Before you agree to any deployment, we advise you to inform your employer before
 #### 3. I have signed up with SG Healthcare Corps. What's next? 
 Thank you for your interest! We will keep you apprised of deployment opportunities as they arise. If suitable deployment opportunities are identified for you, you will be put in touch with our partner organisations, which will be able to share more information to help you decide whether to proceed.
 
-#### 4. How and where will I serve, if I am activated?
+#### 4. How and where will I volunteer?
 There are deployment opportunities across a range of settings and roles, across the public healthcare institutions and community care organisations. When matching you to suitable opportunities, we will take into account your past experience and training, availability and personal preferences.
 
 #### 5. I have submitted my application, but wish to update my details. What should I do?
