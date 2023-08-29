@@ -1,7 +1,7 @@
 ---
 title: Ministerial Statement by Minister Gan Kim Yong
 date: 2020-05-04
-permalink: /resources/news-highlights/ministerial-statement-gan-kim-yong-2020
+permalink: /resources/news-highlights/ministerial-statement-gan-kim-yong-2020/
 layout: post
 description: ""
 ---

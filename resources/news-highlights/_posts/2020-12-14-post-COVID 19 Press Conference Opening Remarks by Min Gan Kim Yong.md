@@ -1,7 +1,7 @@
 ---
 title: COVID 19 Press Conference Opening Remarks by Min Gan Kim Yong
 date: 2020-12-14
-permalink: /resources/news-highlights/covid19-press-conference
+permalink: /resources/news-highlights/covid19-press-conference/
 layout: post
 description: ""
 ---

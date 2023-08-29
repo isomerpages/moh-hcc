@@ -1,7 +1,7 @@
 ---
 title: MOH's Addendum to President's Address
 date: 2020-08-25
-permalink: /resources/news-highlights/moh-covid19-addendum
+permalink: /resources/news-highlights/moh-covid19-addendum/
 layout: post
 description: ""
 ---
