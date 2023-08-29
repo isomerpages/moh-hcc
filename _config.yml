@@ -50,8 +50,8 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-remote-theme
-staging: https://moh-hcc2-staging.netlify.app
-prod: https://moh-hcc2-prod.netlify.app
+staging: https://staging.d17oi5d5abufqq.amplifyapp.com/
+prod: https://master.d17oi5d5abufqq.amplifyapp.com/
 is_government: true
 shareicon: /images/SHC%20logo%20profile%20picture%20usage.jpg
 google_analytics: UA-225040092-1
