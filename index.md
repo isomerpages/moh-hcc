@@ -7,7 +7,7 @@ notification: ""
 sections:
   - hero:
       title: SG Healthcare Corps
-      background: /images/SG%20Healthcare%20Corps_EK20215_web%20res.jpg
+      background: /images/sg healthcare corps_ek20215_web res.jpg
       button: join us now
       url: /join-us
       subtitle: A corps of healthcare volunteers serving alongside our healthcare
@@ -20,7 +20,7 @@ sections:
         SMS Koh, 2021
       button: join us
       url: /join-us
-      image: /images/SG%20Healthcare%20Corps_EK20421_web%20res.jpg
+      image: /images/sg healthcare corps_EK20421_web res.jpg
       alt: Training for SHC Volunteers
   - resources:
       title: News & Resources
