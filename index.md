@@ -20,7 +20,7 @@ sections:
         SMS Koh, 2021
       button: join us
       url: /join-us
-      image: /images/sg healthcare corps_EK20421_web res.jpg
+      image: /images/sg healthcare corps_ek20421_web res.jpg
       alt: Training for SHC Volunteers
   - resources:
       title: News & Resources
