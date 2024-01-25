@@ -1,0 +1,12 @@
+logo: /images/shc logo - high res.png
+links:
+  - title: About Us
+    url: /about-us
+  - title: Join Us
+    url: /join-us
+  - title: FAQ
+    url: /faq
+  - title: News & Resources
+    resource_room: true
+  - title: Contact Us
+    url: /contact-us

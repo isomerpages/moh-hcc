@@ -1,0 +1,57 @@
+title: Singapore Healthcare Corps
+url: ""
+favicon: /images/sg favicon for website.png
+colors:
+  primary-color: "#dc4649"
+  secondary-color: "#ad0d10"
+  media-colors:
+    - title: media-color-one
+      color: "#c71b1b"
+    - title: media-color-two
+      color: "#fa485e"
+    - title: media-color-three
+      color: "#fd7d80"
+    - title: media-color-four
+      color: "#ff4548"
+    - title: media-color-five
+      color: "#ec1751"
+resources_name: resources
+description: Official Website of the SG Healthcare Corps, Ministry of Health
+permalink: none
+baseurl: ""
+exclude:
+  - travis-script.js
+  - .travis.yml
+  - README.md
+  - package.json
+  - package-lock.json
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - Gemfile
+  - Gemfile.lock
+include:
+  - _redirects
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: page
+custom_css_path: /misc/custom.css
+custom_print_css_path: /assets/css/print.css
+paginate: 12
+remote_theme: isomerpages/isomerpages-template@next-gen
+safe: false
+plugins:
+  - jekyll-feed
+  - jekyll-assets
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-remote-theme
+staging: https://staging.d17oi5d5abufqq.amplifyapp.com/
+prod: https://master.d17oi5d5abufqq.amplifyapp.com/
+is_government: true
+shareicon: /images/shc logo profile picture usage.jpg
+google_analytics: UA-225040092-1
