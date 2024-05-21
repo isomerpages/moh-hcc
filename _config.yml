@@ -1,6 +1,6 @@
 title: Singapore Healthcare Corps
 url: ""
-favicon: /images/SG%20favicon%20for%20website.png
+favicon: /images/sg favicon for website.png
 colors:
   primary-color: "#dc4649"
   secondary-color: "#ad0d10"
@@ -50,8 +50,8 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-remote-theme
-staging: https://moh-hcc2-staging.netlify.app
-prod: https://moh-hcc2-prod.netlify.app
+staging: https://staging.d17oi5d5abufqq.amplifyapp.com/
+prod: https://master.d17oi5d5abufqq.amplifyapp.com/
 is_government: true
-shareicon: /images/SHC%20logo%20profile%20picture%20usage.jpg
+shareicon: /images/shc logo profile picture usage.jpg
 google_analytics: UA-225040092-1

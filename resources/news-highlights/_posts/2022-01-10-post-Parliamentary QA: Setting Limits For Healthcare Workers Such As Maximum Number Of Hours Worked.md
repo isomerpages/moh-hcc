@@ -1,7 +1,7 @@
 ---
 title: "Parliamentary QA: Setting Limits For Healthcare Workers Such As Maximum
   Number Of Hours Worked"
-permalink: /resources/news-highlights/setting-limits
+permalink: /resources/news-highlights/setting-limits/
 date: 2022-01-10
 layout: post
 description: ""

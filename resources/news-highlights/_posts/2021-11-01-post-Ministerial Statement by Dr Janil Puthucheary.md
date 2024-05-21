@@ -1,6 +1,6 @@
 ---
 title: Ministerial Statement by Dr Janil Puthucheary
-permalink: /resources/news-highlights/ministerial-statement-janil-puthucheary-2021
+permalink: /resources/news-highlights/ministerial-statement-janil-puthucheary-2021/
 date: 2021-11-01
 layout: post
 description: ""

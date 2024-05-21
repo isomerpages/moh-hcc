@@ -1,7 +1,7 @@
 ---
 title: "Chloe Koh: Taking up to 1000 swabs a day"
 date: 2020-08-27
-permalink: /resources/our-stories/chloe-koh-swabber
+permalink: /resources/our-stories/chloe-koh-swabber/
 layout: post
 description: ""
 ---
