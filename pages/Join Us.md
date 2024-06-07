@@ -4,13 +4,13 @@ permalink: /join-us/
 date: 2023-02-15
 layout: post
 description: ""
+variant: markdown
 ---
-#### SUPPORT FOR PEACE TIME AND CRISIS OPERATIONS
+#### Be a Care Volunteer with SG Healthcare Corps
 
-We are building a corps of volunteers who support our healthcare sector in peacetime, and can also be activated to meet surge needs during crisis.  
+We are building a corps of volunteers to partner us in caring for our patients. &nbsp;
 
-We are currently recruiting for a volunteer role in **support care**. For more information on the role, please visit [https://go.gov.sg/shcvolrecruit.](https://go.gov.sg/shcvolrecruit.)  
+Click below to catch a glimpse of the meaningful journey our volunteers have embarked on. 
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/at7_rQAl6Eo?si=8SWmZqG2abr-HCjJ" height="315" width="560"></iframe>
 
-Interested volunteers may sign up at [https://go.gov.sg/shcvolform](https://go.gov.sg/shcvolform). If you are found suitable, you will be provided pre-deployment training, before you begin your volunteering journey at one of our partner healthcare institutions. 
-
-We look forward to journeying together. Thank you!
+[Sign up](https://www.go.gov.sg/shcvolform) now to make a difference! We look forward to sharing more about SHC with you. 
