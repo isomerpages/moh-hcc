@@ -13,7 +13,7 @@ We are building a corps of volunteers to partner us in caring for our patients. 
 Click below to catch a glimpse of the meaningful journey our volunteers have embarked on. 
 
 <div style="max-width:500px; position:relative; display: block; width: 100%">
-	<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/at7_rQAl6Eo?si=8SWmZqG2abr-HCjJ" height="315" width="100%">
+	<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/at7_rQAl6Eo?si=8SWmZqG2abr-HCjJ" height="273" width="100%">
 	</iframe>
 </div>
 
